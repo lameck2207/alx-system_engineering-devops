@@ -1,2 +1,2 @@
 #!/bin/bash
-"ls -al" >> 4-listmorefiles
+'ls -al' >> 4-listmorefiles
